@@ -1,4 +1,3 @@
-<h3 align="center">Welcome to my world</h3>
 <h1 align="center">Daniel Ferdiansyah</h1>
 <p align="center">
   Software Engineer · CS @ Universitas Indonesia<br/>
@@ -6,14 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://danferdiansyah.dev">
+  <a href="https://danferdiansyah.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/danferdiansyah">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/danferdiansyah">
-    <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:danferdianstyle@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -79,7 +75,7 @@ wireframe to the deployed system.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danferdiansyah&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danferdiansyah&theme=dark&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=a0a0a0&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=danferdiansyah&theme=dark&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=a0a0a0&hide_border=true" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferdiansyah&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=a0a0a0&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="top-langs" />
